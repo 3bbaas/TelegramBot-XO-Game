@@ -126,6 +126,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
     instructions = (
         "Welcome to Tic-Tac-Toe AI Bot! 🎮\n\n"
+        "Don't forget star this project on <a href='https://github.com/3bbaas/TelegramBot-XO-Game'>Github</a>\n\n"
         "📋 <b>How to Play:</b>\n"
         "1. You are ❌ and the AI is ⭕\n"
         "2. Tap on an empty square to place your mark\n"
