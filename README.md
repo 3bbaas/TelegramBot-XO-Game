@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI Bot
+# TelegramBot XO Game
 
 A Telegram bot that lets you play Tic-Tac-Toe against an unbeatable AI using the MINIMAX algorithm.
 
