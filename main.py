@@ -43,7 +43,7 @@ PROJECT_INFO = {
         }, {
             "name": "Ahmed Ibrahim",
             "role": "Flutter Developer, interested in AI",
-            "linkedin": "https://www.linkedin.com/in/hasnaa-nageh-a884a6265"
+            "linkedin": "https://www.linkedin.com/in/-ahmed-ibrahim-abd-elghany"
         }, {
             "name": "Seif Al-Din Sayed",
             "role": "Data Scientist",
