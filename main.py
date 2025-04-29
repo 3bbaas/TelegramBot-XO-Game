@@ -32,7 +32,7 @@ PROJECT_INFO = {
             "role": "Backend Developer, interested in AI",
             "linkedin": "https://www.linkedin.com/in/3bbaas/"
         }, {
-            "name": "Rokiya-Abdelsatar",
+            "name": "Rokiya AbdElsatar",
             "role": "Flutter, AI, Embedded, Front-end, UI-UX, ترابيزات بلياردو و بينج",
             "linkedin": "https://linkedin.com/in/rokiya-abdelsatar"
         },
